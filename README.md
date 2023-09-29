@@ -1,6 +1,7 @@
 # Map
 
 Map (image) with marks.
+The marks are fixed relative to their location for screens from 1920px to 1280px.
 
 ---
 
